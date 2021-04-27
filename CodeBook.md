@@ -85,11 +85,3 @@ angle(Z,gravityMean)
 variable units
 Activity variable is factor type. Subject variable is integer type. All the other variables are numeric type.
 
-"fBodyBodyAccJerkMag-mean()"
-"fBodyBodyAccJerkMag-std()"
-"fBodyBodyGyroMag-mean()"
-"fBodyBodyGyroMag-std()"
-"fBodyBodyGyroJerkMag-mean()"
-"fBodyBodyGyroJerkMag-std()"
-
-
