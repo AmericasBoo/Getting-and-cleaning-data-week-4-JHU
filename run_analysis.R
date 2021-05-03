@@ -1,6 +1,6 @@
 library(dplyr)
 
-# read train data
+# read the train data
 X_train <- read.table("./UCI HAR Dataset/train/X_train.txt")
 Y_train <- read.table("./UCI HAR Dataset/train/Y_train.txt")
 Sub_train <- read.table("./UCI HAR Dataset/train/subject_train.txt")
